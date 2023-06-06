@@ -11,7 +11,7 @@ An OLOD -Opleidingsonderdeel- @ HoGent, feb - may 2023
 3. Wireless Networks:TODO
 4. [Virtual Clones](4.md)
 5. Upgrade your skills: TODO
-6. Static File Analysis: TODO
+6. [Static File Analysis](6.md)
 7. Burp Suite: TODO
 8. OWASP: TODO
 9. Injection Attacks: TODO
